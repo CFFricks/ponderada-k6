@@ -3,8 +3,11 @@
 ## Introdução ao k6
 
 O k6 da Grafana é uma ferramenta de teste de carga open-source que simplifica e torna os testes de desempenho acessíveis e produtivos para equipes de engenharia. Como uma solução gratuita, centrada no desenvolvedor e extensível, o k6 destaca-se no ecossistema de ferramentas de teste de desempenho.
-Com o k6, você pode avaliar a confiabilidade e o desempenho de seus sistemas de maneira simplificada, permitindo a identificação precoce de regressões de desempenho e outros problemas. Essa ferramenta é projetada para auxiliar no desenvolvimento de aplicações resilientes e de alto desempenho, que não apenas atendam às exigências atuais mas também sejam escaláveis para suportar o crescimento futuro.
+
+Com o k6, é possivel avaliar a confiabilidade e o desempenho de seus sistemas de maneira simplificada, permitindo a identificação precoce de regressões de desempenho e outros problemas. Essa ferramenta é projetada para auxiliar no desenvolvimento de aplicações resilientes e de alto desempenho, que não apenas atendam às exigências atuais mas também sejam escaláveis para suportar o crescimento futuro.
+
 O k6 é projetado para facilitar a vida dos desenvolvedores e equipes de teste, oferecendo uma abordagem simplificada para a criação de scripts de teste de carga. Escrevendo testes como código em JavaScript, o k6 permite uma integração fácil com fluxos de trabalho de CI/CD, promovendo práticas de DevOps e agilizando o ciclo de vida de desenvolvimento de software.
+
 Ao focar na experiência do desenvolvedor e na extensibilidade, o k6 oferece uma plataforma robusta para testar não apenas aplicações web, mas também APIs e serviços de microserviços, garantindo que seus usuários tenham a melhor experiência possível, mesmo sob carga pesada.
 
 ## Conceitos Aprendidos
