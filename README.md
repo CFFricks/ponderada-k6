@@ -90,7 +90,7 @@ Pude entender o que cada uma das métricas seginificam:
 - http_req_tls_handshaking: O tempo gasto no handshake do TLS (se aplicável) ao estabelecer uma conexão segura.
 
 - http_req_waiting: O tempo gasto esperando pela resposta do servidor, também conhecido como "time to first byte" (TTFB).
-- 
+  
 - http_reqs: O número total de requisições HTTP feitas durante o teste.
   
 - iteration_duration: A duração média de cada iteração do script de teste do k6. Uma iteração inclui a execução de todas as ações definidas no script.
